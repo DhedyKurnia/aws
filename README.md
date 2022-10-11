@@ -90,6 +90,6 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
 -   Modded and update Script by t.me/PrinceNewbie
 	
 	
-	            
+##Tested by: daftarilmu.com
 	
 	<p align="center"><img src="https://img.shields.io/badge/%20COPYRIGHT%20%C2%A9%202022-%20By%20PrinceNewbie%20VPN%2C%20Inc-blue"></p>
